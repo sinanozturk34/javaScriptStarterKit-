@@ -28,7 +28,7 @@ class CorporateCustomer extends Customer{
     }
 }
 
-//--------------------map
+//----------------------------------map
 let products = [
     {id:1, name:"Acer Leptop", unitPrice:150000},
     {id:2, name:"Asus Leptop", unitPrice:160000},
